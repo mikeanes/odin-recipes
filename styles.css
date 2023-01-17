@@ -1,0 +1,29 @@
+.recipe{
+    background-color: lightcoral;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 500%;
+    font-weight: 500;
+    text-align: center;
+}
+
+.option{
+    list-style-type: none;
+    text-align: center;
+}
+
+.option-padding{
+    padding-bottom: 40px;
+    padding-right: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+}
+
+a:link{
+    color: aqua;
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(135, 70, 193);
+    text-decoration: none;
+}
