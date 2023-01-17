@@ -10,14 +10,15 @@
 .option{
     list-style-type: none;
     text-align: center;
-}
-
-.option-padding{
-    padding-bottom: 40px;
     padding-right: 45px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 250%;
 }
+
+li{
+    padding-bottom: 40px;
+}
+
 
 a:link{
     color: aqua;
